@@ -319,7 +319,7 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
+.skills__ux {
   width: 95%;
 }
 
@@ -331,7 +331,7 @@ img {
   width: 60%;
 }
 
-.skills__ux {
+.skills__html {
   width: 65%;
 }
 
